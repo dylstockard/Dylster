@@ -1,2 +1,1 @@
-# Dylster
-High school coder 
+
